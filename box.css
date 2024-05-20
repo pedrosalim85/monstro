@@ -2,10 +2,12 @@
     text-align: center;
     align-content: center;
     font-family:quicksand
+
 }
 
 body{
-    
+    background-color: black;    
+    color:whitesmoke
     font-size:5rem;
 }
 
@@ -15,8 +17,11 @@ a {
     
 }
 
+
 ul{
     list-style: none;
+    color: whitesmoke;
+    font-size: 2rem;
 }
 
 nav{
@@ -37,6 +42,7 @@ h2{
 }
 
 h3{
+    text-emphasis-color: whitesmoke
     font-family:quicksand;
     font-size:2rem;
     font-weight: 100;
@@ -48,11 +54,19 @@ h3{
 p{
     font-family: quicksand;
     font-size: 2rem;
+    color: whitesmoke;
+    text-align: center;
 }
+
+
 
 .container {
     text-align: center;
     align-items: center;
+}
+
+.texto{
+    text-align: justify;
 }
 
 img{
