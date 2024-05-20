@@ -15,6 +15,9 @@ a {
     
 }
 
+ul{
+    list-style: none;
+}
 
 nav{
     font-size: 3rem;
